@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranjalxexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjalxexe" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranjal-upadhyay-4aa303254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal upadhyay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-upadhyay-b26b30322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal upadhyay" height="30" width="40" /></a>
 <a href="https://instagram.com/heyy.pranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.pranjal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranjalaidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranjalaidev" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranjalaidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjalaidev" height="30" width="40" /></a>
